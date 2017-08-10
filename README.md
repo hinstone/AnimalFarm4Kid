@@ -1,4 +1,4 @@
-# AnimalGame4Kid
+# AnimalFarm4Kid
 Game to learn animal name using Partii2go speech recognition
 
 # รายการคำศัพท์
